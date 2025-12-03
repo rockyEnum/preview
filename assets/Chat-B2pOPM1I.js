@@ -1,0 +1,1 @@
+import{d as a,a as t,h as e,C as s,o as c,_}from"./index-D0MhBClt.js";const o={class:"chat-view"},n=a({__name:"Chat",setup(h){return(l,p)=>(c(),t("div",o,[e(s,{class:"chat-view__content",panelClass:"chat-view__panel",chatClass:"chat-view__chat",layoutClass:"chat-view__layout"})]))}}),i=_(n,[["__scopeId","data-v-b249c311"]]);export{i as default};
